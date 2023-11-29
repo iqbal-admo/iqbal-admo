@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1165196512008097842/1179346407346413568/68747470733a2f2f692e696d6775722e636f6d2f614e4269384a662e706e67.jpg?ex=657972ee&is=6566fdee&hm=1c73f7a6492702a004a89deae549f54b8d1427b4e30db21e4acac068dfb4b1f4&"/>
 
 <h2> / about me /</h2>
   
